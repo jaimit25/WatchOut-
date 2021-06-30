@@ -24,8 +24,8 @@
   <li>Ask Doctor</li>
   <li>News Section - to Enlighten Yourself with Surrounding</li>
   <li> Social Media Friendly</li>
+  <br>
   <span> To Download App 
-    <hr>
   <a class = "Link" href="https://drive.google.com/drive/folders/11sf2gr55_PnhRbZzIUIMLCWhie1TZu7F?usp=sharing"> Project Link</a>
   </span>
 </body>
