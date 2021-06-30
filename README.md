@@ -26,6 +26,6 @@
   <li> Social Media Friendly</li>
   <br>
   <span> To Download App 
-  <a class = "Link" href="https://drive.google.com/drive/folders/11sf2gr55_PnhRbZzIUIMLCWhie1TZu7F?usp=sharing"> Project Link</a>
+  <a class = "Link" href="https://drive.google.com/drive/folders/11sf2gr55_PnhRbZzIUIMLCWhie1TZu7F?usp=sharing"> Link</a>
   </span>
 </body>
