@@ -29,11 +29,10 @@
   <a class = "Link" href="https://drive.google.com/drive/folders/11sf2gr55_PnhRbZzIUIMLCWhie1TZu7F?usp=sharing"> Link</a>
   </span> 
   
-
-    <img src="Screenshots/chat.jpeg" height="400"  />  <img src="Screenshots/chatsec.jpeg" height="400"  /> 
-    <img src="Screenshots/dchat.jpeg" height="400"  /> <img src="Screenshots/emergency.jpeg" height="400"  /> 
-    <img src="Screenshots/emergrencysearch.jpeg" height="400"  /> <img src="Screenshots/" height="400"  /> 
-    <img src="Screenshots/home.jpeg" height="400"  /> <img src="Screenshots/mapnormal.jpeg" height="400"  /> 
-    <img src="Screenshots/map.jpeg" height="400"  /> <img src="Screenshots/news.jpeg" height="400"  /> 
+   
   
 </body>
+
+ <img src="Screenshots/chat.jpeg" height="400"  />  <img src="Screenshots/chatsec.jpeg" height="400"  /> 
+    <img src="Screenshots/dchat.jpeg" height="400"  /> <img src="Screenshots/emergency.jpeg" height="400"  /> 
+    <img src="Screenshots/emergrencysearch.jpeg" height="400"  /> <img src="Screenshots/home.jpeg" height="400"  /> <img src="Screenshots/mapnormal.jpeg" height="400"  />   <img src="Screenshots/map.jpeg" height="400"  /> <img src="Screenshots/news.jpeg" height="400"  /> 
