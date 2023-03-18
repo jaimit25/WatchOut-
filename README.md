@@ -5,7 +5,7 @@
 <body>
 <h1> Watch Out </h1>
 <p>
-  It is a Project which is divided into 2 parts, So the main Moto behind this which is why we develop this  app is That Every day now we are facing issues related to Women Rape Violence and much more. also some issues similar to one which is depicted in <b>URI</b> movie where Vicky Kaushal mom has a Problem because of which she forgets everything and ran out somewhere. So here we have developed a solution through which user can track there family member Via Google Map and not only that user can also Ask for help to Police which is the other app if wanted, by just clicking on a button and police will get the exact coordinated in real time.
+Watch-Out is made to Help make Travelling Easier for women, It works on Revealing the live location of User who might feel un-secured. The App will send the Message to all of the user Friends. and The Location of the user will also be forwarded to Police which can then Help the user by checking on them.
   </p>
   <h3> Other Features</h3>
   <li>Give position to family Members </li>
